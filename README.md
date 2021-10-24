@@ -1,0 +1,2 @@
+# heart-disease-classification
+myself ADITYA JHA, i build a Classification Model,which tells us whether a person have heart disease or not, in this project i use PANDAS for importing the file &amp; doing EDA, SWEETVIZ library to select the best features which are contributing to label column, KFold cross validation for split our data into training &amp; testing part and finally developed the ML model &amp; made a Classification system.
